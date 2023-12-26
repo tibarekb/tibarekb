@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tibarek</h1>
 <h3 align="center">A passionate Data and Machine Learning Engineer with a knack for turning raw data into meaningful insights and building intelligent systems. I thrive on solving complex problems and leveraging data-driven approaches to make informed decisions.</h3>
-<img align="right" width= "400" alt = "Coding" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
+<img align="right" width= "300" alt = "Coding" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
 
 
