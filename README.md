@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tibarek</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">passionate Data and Machine Learning Engineer with a knack for turning raw data into meaningful insights and building intelligent systems. I thrive on solving complex problems and leveraging data-driven approaches to make informed decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tibarekb" alt="tibarekb" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, SQL**
 
-- 📫 How to reach me **tibarekberassu@gmail.com**
+- 📫 How to reach me **berassut@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
