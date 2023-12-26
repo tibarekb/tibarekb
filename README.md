@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tibarek</h1>
 <h3 align="center">A passionate Data and Machine Learning Engineer with a knack for turning raw data into meaningful insights and building intelligent systems. I thrive on solving complex problems and leveraging data-driven approaches to make informed decisions.</h3>
-<img align="right" alt = "Coding" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept?utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share">
+<img align="right" width= 400 alt = "Coding" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept?utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=evaristphi&utm_content=Coding%20Animation%20Concept&utm_medium=Social_Share">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tibarekb" alt="tibarekb" /></a> </p>
 
