@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18325
-Fork on GitHub5429
 <h1 align="center">Hi 👋, I'm Tibarek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
