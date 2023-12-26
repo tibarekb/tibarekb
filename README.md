@@ -5,11 +5,21 @@
 
 
 
+
+
+
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **Python, SQL, Data Engineering, Machine Learning**
 
 - 📫 How to reach me **berassut@gmail.com**
+
+- - 🔭 I’m currently working on **Data Streaming**
+
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
+
+- 👨‍💻 All of my projects are available at [https://tibarekb.github.io/personal_portfolio/](https://tibarekb.github.io/personal_portfolio/)
+  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
