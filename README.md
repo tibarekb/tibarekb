@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tibarek</h1>
 <h3 align="center">A passionate Data and Machine Learning Engineer with a knack for turning raw data into meaningful insights and building intelligent systems. I thrive on solving complex problems and leveraging data-driven approaches to make informed decisions.</h3>
-<img align="right" width= "400" alt = "Coding" src="https://giphy.com/embed/57nf4oyyMmZ2L9QqJN">
+<img align="right" width= "400" alt = "Coding" href="https://giphy.com/embed/57nf4oyyMmZ2L9QqJN">
 
 
 
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, SQL, Data Engineering, Machine Learning**
 
 - 📫 How to reach me **berassut@gmail.com**
 
