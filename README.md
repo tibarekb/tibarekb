@@ -3,6 +3,8 @@
 <img align="right" width= "400" alt = "Coding" src="https://giphy.com/embed/57nf4oyyMmZ2L9QqJN">
 
 
+
+
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **Python, SQL**
